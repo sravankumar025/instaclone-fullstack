@@ -1,0 +1,54 @@
+.form{
+    position: relative;
+    top: 50px;
+    left: 505px;
+    width: 490px;
+    height: 150px;
+    padding: 20px;
+    padding-top: 25px;
+    padding-left: 95px;
+    border: 1px solid #707070;
+}
+
+.form-file{
+    border: 1px solid #707070;
+    margin-top: 5px;
+    height: 28px;
+    width: 397px;
+    border-radius: 5px;
+    padding-left:3px;
+}
+
+input[ placeholder="  Description"],[placeholder="  Location"],[placeholder="  Author"]{
+    border-radius: 5px; 
+    border: 1px solid #707070;
+    padding: 5px;
+}
+
+.form-details-1{
+    margin-top: 12px;
+    margin-right:89px;
+    margin-bottom: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+.form-details-2{
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+input[placeholder="  Description"]{
+    width: 390px;
+}
+.post-button{
+    margin-top: 10px;
+    margin-left: 165px;
+    color: #707070;
+    border-color: grey;
+    background-color:lightgray;
+    font-weight: 100;
+    font-size: 15px;
+    height: 23px;
+    border-radius: 5px;
+    width: 80px;
+}
